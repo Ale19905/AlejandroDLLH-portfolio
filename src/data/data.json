@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "title": {
+      "template": "%s | Frontend Developer",
+      "default": "Christian Boffill",
+      "home": "Christian Boffill | Frontend Developer"
+    },
+    "description": "I am Christian Boffill and this is my professional portfolio as a Frontend Developer. Here you will find the work I have done and the ways to contact me. Thanks for visiting."
+  },
+  "header": {
+    "role": "Frontend Developer",
+    "name": "Alejandro Del Llano",
+    "image": "/",
+    "description": [
+      "I am a young man passionate about technology and development and eager to work for that world. I have participated in provincial and nationalcompetitive programming competitions in c++ with medals as a result,I have also participated 2 times in the ICPC (International CollegiateProgramming Contest). I am a front-end developer and I have html, css, js and react as my main strengths"  
+    ]
+  },
+  "work": {
+    "title": "MOST RECENT WORK EXPERIENCE",
+    "subtitle": "My experience as a Frontend Developer",
+    "accomplishments": {
+      "title": "KEY ACCOMPLISHMENTS",
+      "data": [
+        {
+          "id": 4,
+          "text": "Ensure the scalability, maintainability and reliability of React frontend applications"
+        },
+        {
+          "id": 5,
+          "text": "Maintain legacy code, perform upgrades and create modern web applications"
+        },
+        {
+          "id": 1,
+          "text": "Won a bronze medal in the national programming contest for pre-university students in Cuba"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": 1,
+        "title": "Junior Frontend Developer at Sappmurais",
+        "logo": "/work/sappmurais.svg",
+        "company": "sappmurais",
+        "location": "Remote",
+        "industry": "Development",
+        "startDate": "April 2024",
+        "endDate": "Present",
+        "linkedin": "",
+        "website": "https://sappmurais.com/"
+      }
+    ]
+  },
+  "projects": {
+    "title": "SOME PROJECTS I HAVE WORKED ON",
+    "subtitle": "Take a look at these interesting applications",
+    "items": [
+      {
+        "id": 1,
+        "name": "Rock-Paper-Scissors",
+        "status": "offline",
+        "url": "https://github.com/Ale19905/Rock-Paper-Scissors",
+        "image": "/projects/Rock-Paper-Scissors.png",
+        "description": "Developed with React js",
+        "icon": "reactjs"
+      },     
+      {
+        "id": 1,
+        "name": "Advice Generator App",
+        "status": "offline",
+        "url": "https://github.com/Ale19905/Advice-Generator-App",
+        "image": "/projects/AGA.jpg",
+        "description": "Developed with React js",
+        "icon": "reactjs"
+      },    
+      {
+        "id": 1,
+        "name": "TO-DO-LIST",
+        "status": "offline",
+        "url": "https://github.com/Ale19905/TO-DO-LIST",
+        "image": "/projects/To-Do-List.jpg",
+        "description": "Developed with React js",
+        "icon": "reactjs"
+      }     
+    ]
+  },
+  "stack": {
+    "title": "TECHNOLOGIES I USE",
+    "subtitle": "The amazing tools that allow me to do my job",
+    "tabs": [
+      {
+      "name": "Tech",
+      "icons": [
+          {
+            "id": 1,
+            "icon": "/stack/html-5.svg",
+            "label": "HTML 5"
+          },
+          {
+            "id": 2,
+            "icon": "/stack/css-3.svg",
+            "label": "CSS 3"
+          },
+          {
+            "id": 3,
+            "icon": "/stack/javascript.svg",
+            "label": "JavaScript"
+          },
+          {
+            "id": 5,
+            "icon": "/stack/react.svg",
+            "label": "React.js"
+          },
+          {
+            "id": 6,
+            "icon": "/stack/nextjs.svg",
+            "label": "Next.js"
+          },
+          {
+            "id": 9,
+            "icon": "/stack/nodejs.svg",
+            "label": "Node.js"
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "icons": [
+          {
+            "id": 1,
+            "icon": "/stack/git.svg",
+            "label": "Git"
+          },
+          {
+            "id": 2,
+            "icon": "/stack/github.svg",
+            "label": "GitHub"
+          },
+          {
+            "id": 3,
+            "icon": "/stack/gitlab.svg",
+            "label": "Gitlab"
+          },
+          {
+            "id": 5,
+            "icon": "/stack/visual-studio-code.svg",
+            "label": "Visual Studio Code"
+          },
+          {
+            "id": 8,
+            "icon": "/stack/nvm.svg",
+            "label": "Node Version Manager"
+          }
+        ]
+      }
+      
+    ],
+    "tabWithIcon": true
+  },
+  "contacts": {
+    "title": "HOW TO CONTACT ME",
+    "subtitle": "Click on one of the following links to contact me or send me a message",
+    "links": [
+      {
+        "id": 1,
+        "link": "https://www.linkedin.com/in/alejandrodllh/",
+        "network": "LinkedIn",
+        "label": "Visit my LinkedIn profile",
+        "description": "You can send me a message and get to know a little more about me on my LinkedIn profile."
+      },
+      {
+        "id": 2,
+        "link": "https://github.com/Ale19905",
+        "network": "GitHub",
+        "label": "Visit my GitHub portfolio",
+        "description": "Here I keep my code, go to my GitHub so you can see my work history (public projects only)."
+      }
+    ],
+    "modal": {
+      "title": "Message received!",
+      "text": "Thank you for contacting me. I will shortly e-mail you, replying to your message."
+    }
+  },
+  "menu": {
+    "opts": ["Home", "Work", "Projects", "Stack", "Contact"],
+    "disableScrollEffect": false
+  },
+  "colors": {
+    "primary": "#240036",
+    "secondary": "#332F44",
+    "link": "#CDCD38",
+    "dark": "#0F0F0F",
+    "white": "#E9E7F2",
+    "gray": "#969696",
+    "red": "#3D0315",
+    "blackTabsBg": "#72707984",
+    "blackPaperBg": "#0f0f0f7b",
+    "blackMenuBg": "#1e1e1ede",
+    "gradient": " linear-gradient(225deg, #000000 0%, #2f2f2f 0%, #171617 27%, #252525 67%, #360052 80%, #450072 86%, #5e009c 90%, #8200c3 94%, #9900e5 100%);"
+  }
+}
